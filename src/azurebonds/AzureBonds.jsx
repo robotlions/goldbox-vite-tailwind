@@ -331,7 +331,8 @@ export default function AzureBonds(props) {
         </div>
       </div>
       <div style={{ marginTop: "5vh", textAlign: "center" }}>
-        <div>{splashImage}</div>
+      <div id="splashImageRow">{splashImage}</div>
+
       </div>
     </div>
   );

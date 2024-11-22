@@ -321,7 +321,7 @@ export default function PoolOfRadiance() {
         className="row g-1 d-flex justify-content-center"
         style={{ marginTop: "5vh", textAlign: "center" }}
       >
-        <div className="col-md-auto">{splashImage}</div>
+        <div>{splashImage}</div>
       </div>
     </div>
   );
