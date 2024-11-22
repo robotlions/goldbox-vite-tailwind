@@ -15,6 +15,8 @@ let currentYear = currentDate.getFullYear();
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
+        <h1 className="hidden">Dungeons and Dragons Forgotten Realms Gold Box PC Video games character editor. Hack edit cheat saved games for Pool of Radiance, Curse of the Azure Bonds, Secret of the Silver Blades, Pools of Darkness. Forgotten Realms, Dungeons and Dragons, Advanced Dungeons and Dragons, gold box games.</h1>
+
     <Navbar />
     {/* <App /> */}
     <Routes>
