@@ -356,13 +356,13 @@ const listDisplay = Object.entries(props.gameItemValues).map(([key, value])=>{re
 })
 
   return(<>
-  <p className="mb-2">Object types are determined by a numeric value. Below are the object types for {props.gameName}</p>
+  <p className="mb-2">Each object's type is defined by a numeric value. Below are the object types for {props.gameName}.</p>
   <div key={"valueAccordion"}>
           <button
             onClick={() => toggleAccordion("valueAccordion")}
             className="flex justify-between items-center w-full py-4 px-6 text-left text-gray-600 hover:bg-gray-200 focus:outline-none text-lg"
           >
-            <span><p>Inventory Types for {props.gameName}</p></span>
+            <span><p>Object Types for {props.gameName}</p></span>
             <svg
               className={`w-5 h-5 transform transition-transform ${
                 openIndex === "valueAccordion" ? "rotate-180" : ""

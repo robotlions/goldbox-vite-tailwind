@@ -214,7 +214,7 @@ export default function SilverBlades() {
 
         <h5 className="text-center">
           Need somewhere to start? Try the <em>Secret of the Silver Blades</em>{" "}
-          <a href={"/files/silverBladesDefaultCharacters.zip"}>
+          <a href={"/files/silverBladesDefaultCharacters.zip"} className="text-blue-600 font-semibold">
             default characters
           </a>
           .

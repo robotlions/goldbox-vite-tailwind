@@ -4,24 +4,24 @@
 
 @font-face {
   font-family: "IM-Fell";
-  src: url(./src/assets/fonts/IMFellGreatPrimerSC-Regular.ttf) format("truetype");
+  src: url(./assets/fonts/IMFellGreatPrimerSC-Regular.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "Raleway-Medium";
-  src: url(./src/assets/fonts/Raleway-Medium.ttf) format("truetype");
+  src: url(./assets/fonts/Raleway-Medium.ttf) format("truetype");
 }
 @font-face {
   font-family: "Raleway-Black";
-  src: url(./src/assets/fonts/Raleway-Black.ttf) format("truetype");
+  src: url(./assets/fonts/Raleway-Black.ttf) format("truetype");
 }
 @font-face {
   font-family: "Raleway-Bold";
-  src: url(./src/assets/fonts/Raleway-Bold.ttf) format("truetype");
+  src: url(./assets/fonts/Raleway-Bold.ttf) format("truetype");
 }
 @font-face {
   font-family: "Raleway-SemiBold";
-  src: url(./src/assets/fonts/Raleway-SemiBold.ttf) format("truetype");
+  src: url(./assets/fonts/Raleway-SemiBold.ttf) format("truetype");
 }
 
 h6{

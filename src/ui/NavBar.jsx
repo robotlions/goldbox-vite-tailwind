@@ -17,6 +17,7 @@ const Navbar = () => {
     {linkName: "Pools of Darkness", href: "/poolsofdarkness"},
     {linkName: "Binary Tool", href:"/binarytool"},
     {linkName: "About", href: "/about"},
+    {linkName: "robotlions.com", href: "https://robotlions.com"}
 
     
     
@@ -131,6 +132,9 @@ const Navbar = () => {
             </a>
             <a  href="/about" className="block text-white px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700">
               About
+            </a>
+            <a  href="https://robotlions.com" className="block text-white px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700">
+              robotlions.com
             </a>
             
           </div>
