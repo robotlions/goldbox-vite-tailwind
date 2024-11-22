@@ -54,7 +54,7 @@ export const accordionItems = [
       <span>
         Absolutely.{" "}
         <a
-          href="https://github.com/robotlions/gold-box-next"
+          href="https://github.com/robotlions/goldbox-vite-tailwind"
           className="text-blue-600 font-semibold"
         >
           Here's the GitHub.
